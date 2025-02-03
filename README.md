@@ -2,7 +2,9 @@
 ![AI Security](https://img.shields.io/badge/Specialization-AI_Security-blueviolet)
 <br>
 <img src="https://github.com/user-attachments/assets/3d70228c-59b4-4870-90f8-0e701c502caa" width="155" height="155"/>
-<br><br>
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+<br>
 
 
 <br><br>
