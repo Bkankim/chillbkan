@@ -20,3 +20,8 @@
 <img src="https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=black">
 <img src="https://img.shields.io/badge/netgear-2C262D?style=for-the-badge&logo=netgear&logoColor=black">
 <img src="https://img.shields.io/badge/fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=black">
+
+
+## 🔨 Skills  
+![AI Security](https://img.shields.io/badge/-AI_Security-FF6F00)  
+![Digital Forensics](https://img.shields.io/badge/-DFIR-00BFFF) 
