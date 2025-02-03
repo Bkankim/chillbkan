@@ -5,8 +5,10 @@
 
 🔄 Bkankim | AI Reborn Project 🔐
 <br><br>
-💼STACKs
+
+<font size=4>💼STACKs</font>
+
+<br>
 <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/archlinux/v/:repository/:architecture/:packageName"/>
 
 ![AI Security](https://img.shields.io/badge/Specialization-AI_Security-blueviolet)
