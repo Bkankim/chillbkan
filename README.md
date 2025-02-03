@@ -11,4 +11,8 @@
 ![AI Security](https://img.shields.io/badge/Specialization-AI_Security-blueviolet)
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/archlinux/v/:repository/:architecture/:packageName"/>
+<img src="https://img.shields.io/badge/junipernetworks-84B135?style=for-the-badge&logo=juniper&logoColor=black">
+<img src="https://img.shields.io/badge/보일내용-배경색상?style=for-the-badge&logo=제공하는이름&logoColor=내용색상">
+<img src="https://img.shields.io/badge/보일내용-배경색상?style=for-the-badge&logo=제공하는이름&logoColor=내용색상">
+<img src="https://img.shields.io/badge/보일내용-배경색상?style=for-the-badge&logo=제공하는이름&logoColor=내용색상">
+<img src="https://img.shields.io/badge/보일내용-배경색상?style=for-the-badge&logo=제공하는이름&logoColor=내용색상">
