@@ -5,4 +5,6 @@
 
 🔄 Bkankim | AI Reborn Project 🔐
 
+<img src="https://shields.io/"/>
+
 ![AI Security](https://img.shields.io/badge/Specialization-AI_Security-blueviolet)
