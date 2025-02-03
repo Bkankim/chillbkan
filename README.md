@@ -6,7 +6,7 @@
 🔄 Bkankim | AI Reborn Project 🔐
 <br><br>
 
-<p font size="5">💼STACKs</p>
+💼STACKs
 
 <br>
 <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript"/>
