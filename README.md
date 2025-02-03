@@ -1,7 +1,7 @@
 # 🔄 Bkankim | AI Reborn Project 🔐
 ![AI Security](https://img.shields.io/badge/Specialization-AI_Security-blueviolet)
 <br>
-<img src="https://github.com/user-attachments/assets/3d70228c-59b4-4870-90f8-0e701c502caa" width="160" height="160"/>
+<img src="https://github.com/user-attachments/assets/3d70228c-59b4-4870-90f8-0e701c502caa" width="155" height="155"/>
 <br><br>
 
 
